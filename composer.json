@@ -1,0 +1,6 @@
+{
+    "name": "hanawa-y/gcs-api-upload",
+    "require": {
+        "google/cloud-storage": "^1.6"
+    }
+}
